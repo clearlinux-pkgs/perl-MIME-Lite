@@ -4,7 +4,7 @@
 #
 Name     : perl-MIME-Lite
 Version  : 3.031
-Release  : 5
+Release  : 6
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/MIME-Lite-3.031.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/MIME-Lite-3.031.tar.gz
 Summary  : unknown
