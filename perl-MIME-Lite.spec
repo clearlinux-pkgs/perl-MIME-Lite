@@ -4,7 +4,7 @@
 #
 Name     : perl-MIME-Lite
 Version  : 3.033
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/MIME-Lite-3.033.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/MIME-Lite-3.033.tar.gz
 Summary  : unknown
@@ -109,5 +109,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/MIME/Lite.pm
-/usr/lib/perl5/vendor_perl/5.34.0/MIME/changes.pod
+/usr/lib/perl5/*
